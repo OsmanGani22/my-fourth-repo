@@ -1,13 +1,17 @@
 body{
-    background-color: blue;
+    background-color: yellowgreen;
 }
 h1{
     color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500px;
+    
 }
 p{
     color: yellowgreen;
-    border: 5px solid palevioletred;
+    border: 50px solid palevioletred;
     padding: 40px;
+    font-size: 100px;
 }
 
 div{
