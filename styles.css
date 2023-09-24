@@ -6,8 +6,11 @@ h1{
 }
 p{
     color: yellowgreen;
+    border: 5px solid palevioletred;
+    padding: 40px;
 }
+
 div{
-    border: 2px solid powderblue;
-    border-radius: 8px;
+    border: 10px solid powderblue;
+    border-radius: 25px;
 }
