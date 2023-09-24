@@ -7,3 +7,7 @@ h1{
 p{
     color: yellowgreen;
 }
+div{
+    border: 2px solid powderblue;
+    border-radius: 8px;
+}
